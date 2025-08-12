@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>My GitHub Pages Site</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Site</h1>
+    <p>Hosted with GitHub Pages ✅</p>
+  </header>
+  <main>
+    <p>Change this text and update styles.css to customize.</p>
+  </main>
+</body>
+</html>
